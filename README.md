@@ -5,4 +5,4 @@ According to the U.S. Bureau of Labor Statistics, labor force participation rate
 
 PS This study was originally undertaken in November of 2021 and I used Excel to do the data preparation and STATA to do the regression analysis. I am recreating this study using Python, and delving deeper into EDA, Feature Engineering, and the model building aspect.
 
-Please download the 5 files to run this notebook.
+Please download the 5 files from the data folder to run this notebook.
